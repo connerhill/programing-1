@@ -84,6 +84,3 @@ class MainForm(Form):
 
     def Button3Click(self, sender, e):
         Application.Exit()
-
-    def Label1Click(self, sender, e):
-        pass

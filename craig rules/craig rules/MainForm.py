@@ -53,6 +53,7 @@ class MainForm(Form):
         # 
         # label1
         # 
+        self._label1.Font = System.Drawing.Font("Monotype Corsiva", 48, System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, 0)
         self._label1.ForeColor = System.Drawing.Color.Aquamarine
         self._label1.Location = System.Drawing.Point(57, 32)
         self._label1.Name = "label1"
@@ -73,10 +74,10 @@ class MainForm(Form):
         self.ResumeLayout(False)
 
     def Button1Click(self, sender, e):
-        show._label1.Text = "craig rules"
+        self._label1.Text = "craig rules"
 
     def Button2Click(self, sender, e):
         self._label1.Text = " "
 
     def Button3Click(self, sender, e):
-        application.exit()
+        Application.Exit()

@@ -1,0 +1,12 @@
+C:\Users\hill.c5\Desktop\programing 1\favorite club_sport_activity\favorite club_sport_activity\bin\Debug\favorite club_sport_activity.exe.config
+C:\Users\hill.c5\Desktop\programing 1\favorite club_sport_activity\favorite club_sport_activity\bin\Debug\favorite club_sport_activity.exe
+C:\Users\hill.c5\Desktop\programing 1\favorite club_sport_activity\favorite club_sport_activity\bin\Debug\favorite club_sport_activity.dll
+C:\Users\hill.c5\Desktop\programing 1\favorite club_sport_activity\favorite club_sport_activity\bin\Debug\IronPython.dll
+C:\Users\hill.c5\Desktop\programing 1\favorite club_sport_activity\favorite club_sport_activity\bin\Debug\IronPython.Modules.dll
+C:\Users\hill.c5\Desktop\programing 1\favorite club_sport_activity\favorite club_sport_activity\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\hill.c5\Desktop\programing 1\favorite club_sport_activity\favorite club_sport_activity\bin\Debug\Microsoft.Scripting.dll
+C:\Users\hill.c5\Desktop\programing 1\favorite club_sport_activity\favorite club_sport_activity\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\hill.c5\Desktop\programing 1\favorite club_sport_activity\favorite club_sport_activity\obj\Debug\favorite club_sport_activity.pyprojResolveAssemblyReference.cache
+C:\Users\hill.c5\Desktop\programing 1\favorite club_sport_activity\favorite club_sport_activity\obj\Debug\favorite_club_sport_activity.MainForm.resources
+C:\Users\hill.c5\Desktop\programing 1\favorite club_sport_activity\favorite club_sport_activity\obj\Debug\favorite club_sport_activity.pyproj.GenerateResource.Cache
+C:\Users\hill.c5\Desktop\programing 1\favorite club_sport_activity\favorite club_sport_activity\obj\Debug\favorite club_sport_activity.exe
