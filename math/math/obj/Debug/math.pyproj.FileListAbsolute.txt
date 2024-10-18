@@ -1,0 +1,10 @@
+C:\Users\hill.c5\Desktop\programing 1\math\math\bin\Debug\math.exe.config
+C:\Users\hill.c5\Desktop\programing 1\math\math\bin\Debug\math.exe
+C:\Users\hill.c5\Desktop\programing 1\math\math\bin\Debug\math.dll
+C:\Users\hill.c5\Desktop\programing 1\math\math\bin\Debug\IronPython.dll
+C:\Users\hill.c5\Desktop\programing 1\math\math\bin\Debug\IronPython.Modules.dll
+C:\Users\hill.c5\Desktop\programing 1\math\math\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\hill.c5\Desktop\programing 1\math\math\bin\Debug\Microsoft.Scripting.dll
+C:\Users\hill.c5\Desktop\programing 1\math\math\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\hill.c5\Desktop\programing 1\math\math\obj\Debug\math.pyprojResolveAssemblyReference.cache
+C:\Users\hill.c5\Desktop\programing 1\math\math\obj\Debug\math.exe
