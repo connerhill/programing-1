@@ -26,6 +26,7 @@ class MainForm(Form):
         self._listBox1.Name = "listBox1"
         self._listBox1.Size = System.Drawing.Size(400, 324)
         self._listBox1.TabIndex = 0
+        self._listBox1.SelectedIndexChanged += self.ListBox1SelectedIndexChanged
         # 
         # button1
         # 
@@ -93,3 +94,6 @@ class MainForm(Form):
 
     def Button3Click(self, sender, e): # Exit
         Application.Exit()
+
+    def ListBox1SelectedIndexChanged(self, sender, e):
+        pass
