@@ -19,8 +19,9 @@ class MainForm(Form):
         # 
         # button1
         # 
-        self._button1.BackColor = System.Drawing.Color.Cyan
+        self._button1.BackColor = System.Drawing.Color.Green
         self._button1.Font = System.Drawing.Font("Microsoft Sans Serif", 8.25, System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, 0)
+        self._button1.ForeColor = System.Drawing.Color.Gold
         self._button1.Location = System.Drawing.Point(12, 12)
         self._button1.Name = "button1"
         self._button1.Size = System.Drawing.Size(133, 23)
@@ -31,8 +32,9 @@ class MainForm(Form):
         # 
         # button2
         # 
-        self._button2.BackColor = System.Drawing.Color.Cyan
+        self._button2.BackColor = System.Drawing.Color.Green
         self._button2.Font = System.Drawing.Font("Microsoft Sans Serif", 8.25, System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, 0)
+        self._button2.ForeColor = System.Drawing.Color.Transparent
         self._button2.Location = System.Drawing.Point(151, 12)
         self._button2.Name = "button2"
         self._button2.Size = System.Drawing.Size(133, 23)
@@ -43,8 +45,9 @@ class MainForm(Form):
         # 
         # button3
         # 
-        self._button3.BackColor = System.Drawing.Color.Cyan
+        self._button3.BackColor = System.Drawing.Color.Green
         self._button3.Font = System.Drawing.Font("Microsoft Sans Serif", 8.25, System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, 0)
+        self._button3.ForeColor = System.Drawing.Color.Silver
         self._button3.Location = System.Drawing.Point(290, 12)
         self._button3.Name = "button3"
         self._button3.Size = System.Drawing.Size(133, 23)
@@ -55,8 +58,9 @@ class MainForm(Form):
         # 
         # listBox1
         # 
-        self._listBox1.BackColor = System.Drawing.Color.Fuchsia
+        self._listBox1.BackColor = System.Drawing.Color.Crimson
         self._listBox1.Font = System.Drawing.Font("Mistral", 48, System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, 0)
+        self._listBox1.ForeColor = System.Drawing.Color.Blue
         self._listBox1.FormattingEnabled = True
         self._listBox1.ItemHeight = 76
         self._listBox1.Location = System.Drawing.Point(12, 44)
